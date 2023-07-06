@@ -3,8 +3,8 @@ import { Grid } from '@material-ui/core'
 import Product from './Product/Product'
 
 const products=[
-    {id:1, name:'macbook', descripion: 'macbook air', price:'$30'},
-    {id:2, name:'Hp', descripion: 'Hp Envy Ryzen 7 5800', price:'$20'}
+    {id:1, name:'macbook', description: 'macbook air', price:'$30', image: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1926&q=80'},
+    {id:2, name:'Hp', description: 'Hp Envy Ryzen', price:'$20', image:'https://images.unsplash.com/photo-1583223667854-e0e05b1ad4f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'}
 
 ]
 
