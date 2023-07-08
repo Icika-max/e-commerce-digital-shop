@@ -14,7 +14,7 @@ const Product = ({product}) => {
                 <Typography variant='h5' gutterBottom>
                     {product.name}
                 </Typography>
-                <Typography variant='h5' gutterBottom>
+                <Typography variant='h5' >
                     {product.price}
                 </Typography>
 
